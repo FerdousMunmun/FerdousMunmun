@@ -1,5 +1,4 @@
 
-"C:\Users\User\OneDrive\Desktop\dev img.jpg"
 
 ### Hi there 👋, my name is Jannatul Ferdous
 #### I am full stack developer
