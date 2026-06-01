@@ -91,7 +91,7 @@ I’m a passionate **Full Stack Web Developer** from Dhaka, Bangladesh. I love c
 
 ## 📫 Contact Me
 - Email: [ferdousmunmun75@gmail.com](mailto:ferdousmunmun75@gmail.com)
-- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+- LinkedIn:https://www.linkedin.com/in/jannatul-ferdous-web/
 - GitHub: [github.com/FerdousMunmun](https://github.com/FerdousMunmun)
 
 💡 **Fun fact:** I like to think I’m funny 😄, explore new tech, and contribute to meaningful projects!
