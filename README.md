@@ -2,7 +2,7 @@
 
 ### Hi there 👋, my name is Jannatul Ferdous
 #### I am full stack developer
-![I am full stack developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![I am full stack developer]
 
  I’m Jannatul Ferdous, a passionate and curious Full Stack Web Development learner.
 I’ve already built a strong foundation in HTML, CSS, Bootstrap, and Tailwind CSS, and I’m currently diving deeper into JavaScript and React to sharpen my front-end development skills.
@@ -27,9 +27,9 @@ Skills: REACT / JS / HTML / CSS/Tailwind/Bootstrap
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=FerdousMunmun)](https://github.com/ryo-ma/github-profile-trophy)
+(https://github-profile-trophy.vercel.app/?username=FerdousMunmun)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FerdousMunmun)](https://github.com/anuraghazra/github-readme-stats)
+(https://github-readme-stats.vercel.app/api/top-langs/?username=FerdousMunmun)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=FerdousMunmun&show_icons=true)  
 
