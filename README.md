@@ -29,11 +29,49 @@ I’m a passionate **Full Stack Web Developer** from Dhaka, Bangladesh. I love c
 
 ---
 
-## 📊 GitHub Vaunt Stats (Dynamic)
-![GitHub Level](https://github-profile-level.vercel.app/api?username=FerdousMunmun&theme=dark)
-![GitHub Streak](https://streak-stats.demolab.com?user=FerdousMunmun&theme=dark)
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=FerdousMunmun&theme=react-dark&hide_title=true&hide_border=true)
-![Contribution Heatmap](https://github-readme-activity-graph.cyclic.app/graph?username=FerdousMunmun&theme=react-dark&hide_border=true)
+## 📊 GitHub Vaunt Stats
+
+<p align="center">
+  <a href="https://vaunt.dev">
+    <img 
+      src="https://api.vaunt.dev/v1/github/entities/FerdousMunmun/contributions?format=svg" 
+      width="500" 
+      title="Includes public contributions"
+    />
+  </a>
+</p>
+
+<p align="center">
+  <img 
+    src="https://streak-stats.demolab.com?user=FerdousMunmun&theme=dark&hide_border=true" 
+    width="500" 
+    alt="GitHub Streak"
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=FerdousMunmun&show_icons=true&theme=dark&hide_border=true" 
+    width="500" 
+    alt="GitHub Stats"
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=FerdousMunmun&layout=compact&theme=dark&hide_border=true" 
+    width="500" 
+    alt="Top Languages"
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=FerdousMunmun&theme=react-dark&hide_border=true" 
+    width="800" 
+    alt="GitHub Activity Graph"
+  />
+</p>
 
 ---
 
