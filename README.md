@@ -50,45 +50,20 @@ I’m a passionate **Full Stack Web Developer** from Dhaka, Bangladesh. I love c
 ## 📊 GitHub Vaunt Stats
 
 <p align="center">
-  <a href="https://vaunt.dev">
-    <img 
-      src="https://api.vaunt.dev/v1/github/entities/FerdousMunmun/contributions?format=svg" 
-      width="500" 
-      title="Includes public contributions"
-    />
-  </a>
-</p>
+  <!-- Vaunt Card -->
+  <img src="https://api.vaunt.dev/v1/github/entities/FerdousMunmun/contributions?format=svg" width="500" alt="GitHub Level"/>
 
-<p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=FerdousMunmun&theme=dark&hide_border=true" 
-    width="500" 
-    alt="GitHub Streak"
-  />
-</p>
+  <!-- Streak Stats -->
+  <img src="https://streak-stats.demolab.com?user=FerdousMunmun&theme=dark&hide_border=true" width="500" alt="GitHub Streak"/>
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=FerdousMunmun&show_icons=true&theme=dark&hide_border=true" 
-    width="500" 
-    alt="GitHub Stats"
-  />
-</p>
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=FerdousMunmun&show_icons=true&theme=dark&hide_border=true" width="500" alt="GitHub Stats"/>
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=FerdousMunmun&layout=compact&theme=dark&hide_border=true" 
-    width="500" 
-    alt="Top Languages"
-  />
-</p>
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FerdousMunmun&layout=compact&theme=dark&hide_border=true" width="500" alt="Top Languages"/>
 
-<p align="center">
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=FerdousMunmun&theme=react-dark&hide_border=true" 
-    width="800" 
-    alt="GitHub Activity Graph"
-  />
+  <!-- Contribution Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FerdousMunmun&theme=react-dark&hide_border=true" width="800" alt="Contribution Graph"/>
 </p>
 
 ---
