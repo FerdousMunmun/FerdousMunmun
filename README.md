@@ -3,23 +3,26 @@
 
 
 <table>
-<tr>
-<td width="55%" valign="top">
+  <tr>
+    <td width="55%" valign="top">
 
-# Hi 👋, I'm Jannatul Ferdous
+      <h1>Hi 👋, I'm Jannatul Ferdous</h1>
 
-### 💜 Full Stack Developer
+      <h3>💜 Full Stack Developer</h3>
 
-I build modern, responsive and scalable web applications with clean code and great user experience.
+      <p>
+        I build modern, responsive and scalable web applications
+        with clean code and great user experience.
+      </p>
 
-</td>
+    </td>
 
-<td width="45%" align="center">
+    <td width="45%" valign="top" align="right">
 
-<img src="./bannerimage.png" width="100%" alt="Banner"/>
+      <img src="./bannerimage.png" width="100%" alt="Banner"/>
 
-</td>
-</tr>
+    </td>
+  </tr>
 </table>
 
 <br>
