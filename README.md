@@ -16,7 +16,7 @@ I build modern, responsive and scalable web applications with clean code and gre
 
 <td width="45%" align="center">
 
-<img src="YOUR_BANNER_IMAGE_LINK" width="100%" alt="Banner"/>
+<img src="./bannerimage.png" width="100%" alt="Banner"/>
 
 </td>
 </tr>
