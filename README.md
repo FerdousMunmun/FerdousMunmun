@@ -2,60 +2,54 @@
 
 
 
-<table>
-<tr>
-<td width="55%" valign="top">
+<!-- Hero Banner -->
+<p align="center">
+  <img src="./bannerimage.png" alt="GitHub Banner" width="100%">
+</p>
 
-# Hi 👋, I'm Jannatul Ferdous
+---
 
-### 💜 Full Stack Developer
+## 👨‍💻 About Me
 
-I build modern, responsive and scalable web applications with clean code and great user experience.
-
-</td>
-
-<td width="45%" valign="top" align="right">
-
-<img src="./bannerimage.png" width="100%" alt="Banner">
-
-</td>
-</tr>
-</table>
-
-<br>
-
-![PRO Badge](https://img.shields.io/badge/PRO-FullStack-blue?style=flat-square)
-![Fun Badge](https://img.shields.io/badge/🎯-I%20think%20I'm%20funny-yellow?style=flat-square)
-![Skill Badge](https://img.shields.io/badge/💻-Web%20Dev-green?style=flat-square)
-![Love Badge](https://img.shields.io/badge/❤️-Passionate-red?style=flat-square)
-
-I'm a passionate **Full Stack Web Developer** from Dhaka, Bangladesh. I love creating **clean, responsive, and user-friendly web interfaces**.
-## 🧰 Skills
+I'm a passionate **Full Stack Web Developer** from **Dhaka, Bangladesh**.
+I enjoy building clean, responsive, and scalable web applications while continuously learning new technologies.
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/> React.js
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> JavaScript (ES6+)
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/> HTML5
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/> CSS3
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" width="40" height="40"/> Tailwind CSS
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" height="40"/> Bootstrap
-  <br><br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/> Node.js
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" width="40" height="40"/> Express.js
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/> Git
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/> GitHub
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="VS Code" width="40" height="40"/> VS Code
+  <img src="https://img.shields.io/badge/PRO-FullStack-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/🚀-Web%20Developer-success?style=for-the-badge">
+  <img src="https://img.shields.io/badge/❤️-Passionate-red?style=for-the-badge">
+  <img src="https://img.shields.io/badge/💡-Problem%20Solver-yellow?style=for-the-badge">
 </p>
+
 ---
+
+## 🛠️ Skills
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45" alt="React"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="JavaScript"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="HTML5"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" alt="CSS3"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="45" alt="Tailwind CSS"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="45" alt="Bootstrap"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="45" alt="Node.js"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="45" alt="Express"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="45" alt="MongoDB"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="Git"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45" alt="GitHub"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45" alt="VS Code"/>
+</p>
 
 ## 🌱 Currently Working On
 - Building small web apps to strengthen **frontend & JavaScript skills**
