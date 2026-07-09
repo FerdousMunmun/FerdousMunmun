@@ -2,16 +2,34 @@
 
 
 
-# Hi there 👋, I'm Jannatul Ferdous
+<table>
+<tr>
+<td width="55%" valign="top">
+
+# Hi 👋, I'm Jannatul Ferdous
+
+### 💜 Full Stack Developer
+
+I build modern, responsive and scalable web applications with clean code and great user experience.
+
+</td>
+
+<td width="45%" align="center">
+
+<img src="YOUR_BANNER_IMAGE_LINK" width="100%" alt="Banner"/>
+
+</td>
+</tr>
+</table>
+
+<br>
 
 ![PRO Badge](https://img.shields.io/badge/PRO-FullStack-blue?style=flat-square)
-![Fun Badge](https://img.shields.io/badge/🎯-I_think_I'm_funny-yellow?style=flat-square)
-![Skill Badge](https://img.shields.io/badge/💻-Web_Dev-green?style=flat-square)
+![Fun Badge](https://img.shields.io/badge/🎯-I%20think%20I'm%20funny-yellow?style=flat-square)
+![Skill Badge](https://img.shields.io/badge/💻-Web%20Dev-green?style=flat-square)
 ![Love Badge](https://img.shields.io/badge/❤️-Passionate-red?style=flat-square)
 
-I’m a passionate **Full Stack Web Developer** from Dhaka, Bangladesh. I love creating **clean, responsive, and user-friendly web interfaces**.
-
----
+I'm a passionate **Full Stack Web Developer** from Dhaka, Bangladesh. I love creating **clean, responsive, and user-friendly web interfaces**.
 ## 🧰 Skills
 
 <p align="center">
