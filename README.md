@@ -89,15 +89,7 @@ I enjoy building clean, responsive, and scalable web applications while continuo
 
 ---
 
-## 📌 Pinned Repositories
-| Project | Language |
-|---------|----------|
-| [english_Janala](https://github.com/FerdousMunmun/english_Janala) | HTML |
-| [g3Architect-webResponsive](https://github.com/FerdousMunmun/g3Architect-webResponsive) | HTML |
-| [gitHub-Issues-Tracker_A5](https://github.com/FerdousMunmun/gitHub-Issues-Tracker_A5) | JavaScript |
-| [keenkeeper](https://github.com/FerdousMunmun/keenkeeper) | JavaScript |
-| [Mary-Hardy](https://github.com/FerdousMunmun/Mary-Hardy) | HTML |
-| [sportnest](https://github.com/FerdousMunmun/sportnest) | JavaScript |
+
 
 ---
 
